@@ -345,7 +345,7 @@ input[type="checkbox"] {
 }
 .navbar .navbar-nav .nav-link {
     font-size: 18px;
-    font-weight: 300;
+    font-weight: 600;
     color: #fff;
     margin: 15px 5px;
     -webkit-transition: all .4s;
@@ -355,7 +355,7 @@ input[type="checkbox"] {
     color: #9c5451;
 }
 .navbar .navbar-nav .active {
-    color: #9c5451 !important;
+    color: #ffff !important;
 }
 .nav-scroll {
     background: #090909;
@@ -380,7 +380,7 @@ input[type="checkbox"] {
     color: #fff;
 }
 .nav-scroll .navbar-nav .active {
-    color: #9c5451 !important;
+    color: #fff !important;
 }
 .nav-scroll .navbar-nav .logo {
     padding: 15px 0;
