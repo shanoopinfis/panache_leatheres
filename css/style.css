@@ -526,7 +526,7 @@ input[type="checkbox"] {
 }
 .sub-menu {
     position: absolute;
-    left: 100%;
+    left: 110%;
     top: -5px;
 }
 .sub-menu.left {
